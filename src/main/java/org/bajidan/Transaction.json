@@ -1,0 +1,249 @@
+[
+  {
+    "timestamp": "2024-03-12T10:00:00",
+    "amount": 150.25,
+    "userID": "user1",
+    "service": "serviceA"
+  },
+  {
+    "timestamp": "2024-03-12T10:15:00",
+    "amount": 200.50,
+    "userID": "user1",
+    "service": "serviceB"
+  },
+  {
+    "timestamp": "2024-03-12T10:30:00",
+    "amount": 300.75,
+    "userID": "user1",
+    "service": "serviceC"
+  },
+  {
+    "timestamp": "2024-03-12T10:45:00",
+    "amount": 450.90,
+    "userID": "user1",
+    "service": "serviceD"
+  },
+  {
+    "timestamp": "2024-03-12T11:00:00",
+    "amount": 600.30,
+    "userID": "user1",
+    "service": "serviceE"
+  },
+  {
+    "timestamp": "2024-03-12T11:00:00",
+    "amount": 100.20,
+    "userID": "user2",
+    "service": "serviceA"
+  },
+  {
+    "timestamp": "2024-03-12T11:15:00",
+    "amount": 250.80,
+    "userID": "user2",
+    "service": "serviceB"
+  },
+  {
+    "timestamp": "2024-03-12T11:30:00",
+    "amount": 500.45,
+    "userID": "user2",
+    "service": "serviceC"
+  },
+  {
+    "timestamp": "2024-03-12T11:45:00",
+    "amount": 700.60,
+    "userID": "user2",
+    "service": "serviceD"
+  },
+  {
+    "timestamp": "2024-03-12T12:00:00",
+    "amount": 900.75,
+    "userID": "user2",
+    "service": "serviceE"
+  },
+  {
+    "timestamp": "2024-03-12T12:00:00",
+    "amount": 50.10,
+    "userID": "user3",
+    "service": "serviceA"
+  },
+  {
+    "timestamp": "2024-03-12T12:15:00",
+    "amount": 100.25,
+    "userID": "user3",
+    "service": "serviceB"
+  },
+  {
+    "timestamp": "2024-03-12T12:30:00",
+    "amount": 150.75,
+    "userID": "user3",
+    "service": "serviceC"
+  },
+  {
+    "timestamp": "2024-03-12T12:45:00",
+    "amount": 200.90,
+    "userID": "user3",
+    "service": "serviceD"
+  },
+  {
+    "timestamp": "2024-03-12T13:00:00",
+    "amount": 250.20,
+    "userID": "user3",
+    "service": "serviceE"
+  },
+  {
+    "timestamp": "2024-03-12T13:00:00",
+    "amount": 10.50,
+    "userID": "user4",
+    "service": "serviceA"
+  },
+  {
+    "timestamp": "2024-03-12T13:15:00",
+    "amount": 20.75,
+    "userID": "user4",
+    "service": "serviceB"
+  },
+  {
+    "timestamp": "2024-03-12T13:30:00",
+    "amount": 30.25,
+    "userID": "user4",
+    "service": "serviceC"
+  },
+  {
+    "timestamp": "2024-03-12T13:45:00",
+    "amount": 40.90,
+    "userID": "user4",
+    "service": "serviceD"
+  },
+  {
+    "timestamp": "2024-03-12T14:00:00",
+    "amount": 50.20,
+    "userID": "user4",
+    "service": "serviceE"
+  },
+  {
+    "timestamp": "2024-03-12T14:00:00",
+    "amount": 3000.00,
+    "userID": "user1",
+    "service": "serviceF"
+  },
+  {
+    "timestamp": "2024-03-12T14:15:00",
+    "amount": 4000.00,
+    "userID": "user1",
+    "service": "serviceG"
+  },
+  {
+    "timestamp": "2024-03-12T14:30:00",
+    "amount": 5000.00,
+    "userID": "user1",
+    "service": "serviceG"
+  },
+  {
+    "timestamp": "2024-03-12T14:45:00",
+    "amount": 6000.00,
+    "userID": "user1",
+    "service": "serviceH"
+  },
+  {
+    "timestamp": "2024-03-12T15:00:00",
+    "amount": 7000.00,
+    "userID": "user1",
+    "service": "serviceI"
+  },
+  {
+    "timestamp": "2024-03-12T15:15:00",
+    "amount": 8000.00,
+    "userID": "user1",
+    "service": "serviceJ"
+  },
+  {
+    "timestamp": "2024-03-12T15:15:00",
+    "amount": 1000.00,
+    "userID": "user2",
+    "service": "serviceF"
+  },
+  {
+    "timestamp": "2024-03-12T15:30:00",
+    "amount": 1500.00,
+    "userID": "user2",
+    "service": "serviceG"
+  },
+  {
+    "timestamp": "2024-03-12T15:45:00",
+    "amount": 2000.00,
+    "userID": "user2",
+    "service": "serviceH"
+  },
+  {
+    "timestamp": "2024-03-12T16:00:00",
+    "amount": 2500.00,
+    "userID": "user2",
+    "service": "serviceI"
+  },
+  {
+    "timestamp": "2024-03-12T16:15:00",
+    "amount": 3000.00,
+    "userID": "user2",
+    "service": "serviceJ"
+  },
+  {
+    "timestamp": "2024-03-12T16:15:00",
+    "amount": 500.00,
+    "userID": "user3",
+    "service": "serviceF"
+  },
+  {
+    "timestamp": "2024-03-12T16:30:00",
+    "amount": 1000.00,
+    "userID": "user3",
+    "service": "serviceG"
+  },
+  {
+    "timestamp": "2024-03-12T16:45:00",
+    "amount": 1500.00,
+    "userID": "user3",
+    "service": "serviceH"
+  },
+  {
+    "timestamp": "2024-03-12T17:00:00",
+    "amount": 2000.00,
+    "userID": "user3",
+    "service": "serviceI"
+  },
+  {
+    "timestamp": "2024-03-12T17:15:00",
+    "amount": 2500.00,
+    "userID": "user3",
+    "service": "serviceJ"
+  },
+  {
+    "timestamp": "2024-03-12T17:15:00",
+    "amount": 50.00,
+    "userID": "user4",
+    "service": "serviceF"
+  },
+  {
+    "timestamp": "2024-03-12T17:30:00",
+    "amount": 100.00,
+    "userID": "user4",
+    "service": "serviceG"
+  },
+  {
+    "timestamp": "2024-03-12T17:45:00",
+    "amount": 150.00,
+    "userID": "user4",
+    "service": "serviceH"
+  },
+  {
+    "timestamp": "2024-03-12T18:00:00",
+    "amount": 200.00,
+    "userID": "user4",
+    "service": "serviceI"
+  },
+  {
+    "timestamp": "2024-03-12T18:15:00",
+    "amount": 250.00,
+    "userID": "user4",
+    "service": "serviceJ"
+  }
+]
+

@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2024-03-12T10:00:00",
+    "amount": 150.25,
+    "userID": "user1",
+    "service": "serviceA"
+  },
+  {
+    "timestamp": "2024-03-12T10:15:00",
+    "amount": 200.50,
+    "userID": "user1",
+    "service": "serviceB"
+  }
+  ]
